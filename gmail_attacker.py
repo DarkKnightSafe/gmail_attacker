@@ -6,7 +6,7 @@ from os import system
 
 def main():
    print '================================================='
-   print '               coded by ayoub sirai              '
+   print '               Dark-Knight The safe              '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
